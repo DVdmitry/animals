@@ -10,6 +10,8 @@ namespace Animal_Interface
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(4);
+            Console.ReadKey();
         }
     }
 }
